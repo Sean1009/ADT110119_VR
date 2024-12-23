@@ -1,0 +1,178 @@
+#: locale=zh-TW
+
+## E-Learning
+
+### Answer
+questionOption_E11AB828_F2F4_3AA8_41D2_1B3ED38B0064.text = 影印機
+questionOption_E12062E2_F2F4_2FD8_41C8_738B36F171DD.text = 服務台
+questionOption_E133B016_F2F4_2A78_41CB_7808EC8BA993.text = 演講區
+questionOption_E12EF5D0_F2F4_35F7_41E9_9550E8F5BAA4.text = 討論室
+
+### Question
+question_E17E9304_F2F4_EE5F_41C0_998901CDF41D.title = 下列何者不是一樓所擁有的服務
+
+### Question Screen
+quizQuestion_F9F080EA_E692_901F_41B8_D718BEB1F0AA.ok = OK
+
+### Report Screen
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.title = - SCORE -
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.completion = Completed
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.questionsCorrect = Correct
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.downloadCSV = Download .csv
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.questionsIncorrect = Incorrect
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.items = Items Found
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.questions = Questions
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.repeat = Repeat
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.submitToLMS = Submit
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.elapsedTime = Time
+quizScore_F9F2B0EA_E692_901F_41E3_7324E430CE2C.description = 圖書館測驗分數
+
+### Score Name
+score1.label = 圖書館測驗
+
+### Timeout Screen
+quizTimeout_F9F080EA_E692_901F_41D0_375A19F8C12E.title = - TIMEOUT -
+quizTimeout_F9F080EA_E692_901F_41D0_375A19F8C12E.repeat = Repeat
+quizTimeout_F9F080EA_E692_901F_41D0_375A19F8C12E.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_8F3FCCF4_9C1D_362D_41C3_F3E07FE59B71.text = 1F
+HotspotPanoramaOverlayTextImage_8AF9502C_9BFF_4E3C_41BE_65B31FC034CA.text = 2F
+HotspotPanoramaOverlayTextImage_8AF07491_9BFD_36E4_41E2_6C0CF86394BB.text = 3F
+HotspotPanoramaOverlayTextImage_8A85630A_9BF5_F3E5_41C5_2FC703060CA9.text = 4F
+HotspotPanoramaOverlayTextImage_8F8B5EF6_9BF7_722D_41D5_109C733A577E.text = 5F
+HotspotPanoramaOverlayTextImage_8A8E2362_9BF2_F225_41DB_AD0259F7D061.text = B1
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_ED89AAEA_F2F5_FFA8_41D0_AB3DE0462861.url = media/map_E902F138_F314_2AB7_41E4_6FD296CE38DA_zh-TW_0.jpg
+imlevel_ED89DAEA_F2F5_FFA8_41D4_3DBBD39E93C8.url = media/map_E902F138_F314_2AB7_41E4_6FD296CE38DA_zh-TW_1.jpg
+imlevel_ED89EAEC_F2F5_FFAF_41E4_21661C667BAC.url = media/map_E902F138_F314_2AB7_41E4_6FD296CE38DA_zh-TW_2.jpg
+imlevel_8F9C2E3B_9BEE_D224_41DA_294CBA3F216D.url = media/panorama_9CC93A1A_961A_9823_41E2_3C8AA461C6A3_HS_f9034t8y_zh.png
+imlevel_8F9E2DED_9BEE_D63F_41CC_E378A1A9B94D.url = media/panorama_9CC9B41E_961A_A823_41BE_A0E8D42B9BAD_HS_5mf7s0ua_zh.png
+imlevel_8FA08DA2_9BEE_D625_41E1_3AC4862C7FF0.url = media/panorama_9CCB0189_961B_6821_41C2_E618E6AC7C5C_HS_vxgd7p7w_zh.png
+imlevel_8FA2ED5E_9BEE_D61D_41C7_C25F68912BA9.url = media/panorama_9CD4846F_961B_E8E1_41D9_5A09A55F323C_HS_2c171zt8_zh.png
+imlevel_8F0D3886_9C1D_DEEC_41E2_77E19205A04D.url = media/panorama_9CD54236_961B_A863_41C5_489C50810589_HS_rzbjf8fl_zh.png
+imlevel_8FE2DD0A_9BEE_D7E5_41B4_A60B6E063E2F.url = media/panorama_9CD54875_961B_B8E1_41D3_7876FC79E8CF_HS_27gzjy4b_zh.png
+
+### Title
+panorama_9A2E506F_961B_68E1_41C1_872327A38CFE.label = 0-0
+panorama_9CC30616_961B_6823_41CB_1E5D43040F62.label = 0-1
+panorama_9CD44BC0_961B_781E_41D2_34C2F7382906.label = 1-0
+panorama_9CD5E169_961B_68E1_41A3_28C8249F4E6B.label = 1-1
+panorama_9CD55703_961B_6821_41D0_DCFA52A68553.label = 1-2
+panorama_9CD5AC88_961B_982F_41C7_1B01AAF90B29.label = 1-3
+panorama_9CD54236_961B_A863_41C5_489C50810589.label = 1-4
+photo_C14B0BBD_D405_A7D5_41C5_EBA9C5A9F16E.label = 1F-1主題書展告示
+photo_C47830C9_D406_61BD_41E8_D66C534654A8.label = 1F-1環境數據
+photo_F2592A51_E292_F00D_41DB_42AE420A04DD.label = 1F-2影印機
+photo_FEEBED57_E6F2_F035_41CC_F1107630F5B8.label = 1F-3書籍滅菌器
+photo_F9879D03_E38E_F00C_41C1_2748AE3AFEAD.label = 1F-3自動借書機
+photo_FECBA012_E692_900F_41DE_AF2C48325E5D.label = 1F-3自動收費機
+photo_F5F12C0F_E2B7_B015_41E8_E9AB1E7E08DA.label = 1F討論室
+map_E902F138_F314_2AB7_41E4_6FD296CE38DA.label = 1cada74b-3cea-414e-a8e1-337eb3465354
+panorama_9CD54875_961B_B8E1_41D3_7876FC79E8CF.label = 2-0
+panorama_9CD59E3D_961B_B861_41D3_63D7529B4C0E.label = 2-1
+panorama_9CD5642E_961B_A863_41D4_D93B5204497E.label = 2-2
+panorama_9CD43B05_961B_9821_41D6_A00702370A30.label = 2-3
+panorama_9CD45143_961B_E821_41A9_E98A510BCF9B.label = 2-4
+panorama_9CD4D78A_961B_E823_41AD_0A937EF5613E.label = 2-5
+photo_FF8CA31E_E6B7_9034_41DE_ECA41B01405C.label = 2F-2地球儀(1)
+photo_FF4A5792_E696_B00C_41E1_E547E68A027C.label = 2F-4教師評鑑
+panorama_9CD4846F_961B_E8E1_41D9_5A09A55F323C.label = 3-0
+panorama_9CD41DCA_961B_F823_41E0_6A556855E0FC.label = 3-0(1)
+panorama_9CD49B46_961B_9823_41B4_584220D28BAA.label = 3-1
+panorama_9CCB6215_961B_A821_41D7_5D17583143F3.label = 3-2
+panorama_9CD4B857_961B_B821_41DA_DCB2ECFBDFDF.label = 3-3
+panorama_9CCB7E7F_961B_B8E1_41D9_D8364F5EEB48.label = 3-4
+panorama_9CCB553F_961B_A862_41B0_67CA33CA270F.label = 3-5
+panorama_9CCBFB80_961B_981F_41DE_9C0B520D9C64.label = 3-7
+panorama_9CCB0189_961B_6821_41C2_E618E6AC7C5C.label = 4-0
+panorama_9CCB6E64_961B_78E7_41DC_86DF5C62BF3A.label = 4-1
+panorama_9CCB6800_961B_781F_41B2_6EF00035B810.label = 4-1(1)
+panorama_9CCAD49A_961B_6822_41C3_A67B7A22A837.label = 4-2
+panorama_9CCA8A58_961A_982F_41AD_6EE258DAA73D.label = 4-3
+panorama_9CCA10AE_961A_A863_41C2_E6E19A5B2F94.label = 4-4
+panorama_9CCA2763_961A_A8E1_41CA_682D84FEF109.label = 4-5
+panorama_9CCA5DC4_961A_B827_41E0_44E2841A817B.label = 4-7
+panorama_9CC9B41E_961A_A823_41BE_A0E8D42B9BAD.label = 5-0
+panorama_9CC990E9_961A_E9E1_41C2_BBC0A94C29EE.label = 5-1
+panorama_9CC9EA7B_961A_98E1_41DF_B5F5AAC1BD74.label = 5-1(1)
+panorama_9CC9175C_961A_E827_41DF_C9559586E251.label = 5-2
+panorama_9CC96D61_961A_F8E1_41D0_613B18BDE45D.label = 5-3
+panorama_9CC923CC_961A_E827_41D4_FBC53697E1D9.label = 5-4
+photo_C89EC4E8_EE92_901B_41E9_9D767E2EFE7E.label = 5F-2
+photo_C8FBFDA2_EE91_900C_41D0_AF0759CB2B74.label = 5F-3座位區 (5)
+panorama_9CC93A1A_961A_9823_41E2_3C8AA461C6A3.label = B1-0
+panorama_9CC8A013_961A_A821_41E0_782CFEF64D0A.label = B1-1
+panorama_9CC8863E_961A_A862_41A3_30A64869979C.label = B1-2
+photo_CAA66654_ED92_900B_41BC_4AD0D772E5D9.label = B1-書籍展示區
+video_BCDB3810_AC14_5241_41CE_D987668E06E5.label = 圖書館刷卡
+photo_C2FDC35B_D282_2599_41DE_15F73DF9BA61.label = 還書口
+photo_F9A960AD_E3B3_9015_41EA_36EEF80F8015.label = 還書車
+
+### Video
+videolevel_ED8519EA_F2F5_FDAB_41E1_2BE2BECA6393.posterURL = media/video_BCDB3810_AC14_5241_41CE_D987668E06E5_poster_zh-TW.jpg
+videolevel_ED8519EA_F2F5_FDAB_41E1_2BE2BECA6393.url = media/video_BCDB3810_AC14_5241_41CE_D987668E06E5_zh-TW.mp4
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_FBADE865_E796_B014_41DA_568728DA70AD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-1～3-2：哲學</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-3～3-5：心理學</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-6～3-7：倫理科學總論</B></SPAN></DIV></BODY></HTML></div>
+htmlText_F8A41951_E78E_900C_41DA_AC74393365F0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-21～3-22：（統計）企業行銷</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-22～3-30：教育學</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_FA672261_E792_900D_41DC_0FC7BE2A79A3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-22～3-30：教育學</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-31～3-34：社會民俗學</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-35～3-37：經濟學</B></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_FA14FB9D_E792_B034_419F_4A85ACD4AE63.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-38～3-40：法律政治</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_FB7E0D94_E796_700B_41DB_85C9AAC19DBB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-8～3-11：電腦科學</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>3-12～3-13：地球科學</B></SPAN></DIV></BODY></HTML></div>
+htmlText_F8EAB503_E392_B00D_41E2_1CFD659A7209.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>4-10：歷史傳記<BR/>4-11～4-13：語言學</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><BR/></SPAN></DIV></BODY></HTML></div>
+htmlText_F8855F87_E28E_9015_41DE_6CF2455DD7CF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>4-1～4-6：中國史地</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_FB5CF683_E2B2_900D_41DA_F0C7423FA5A9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>4-21～4-28：各國文學</B></SPAN></DIV></BODY></HTML></div>
+htmlText_F5BBA7AD_E292_7015_4198_5BAF0FA30F7E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>4-40～4-38：本校論文</B></SPAN></DIV></BODY></HTML></div>
+htmlText_FA81E652_E396_B00F_41D9_3BCC984630A6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>4_34～4-29：繪圖雕塑</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_CB60A1A3_ED76_B00D_41C0_FA8EC616A10F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>兒童書籍區</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">這裡有小孩閱讀的繪本等等，很常看到小孩會在讀書</SPAN></DIV></BODY></HTML></div>
+htmlText_CB4B9EB0_ED91_900B_41AA_CAA927E644CC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>兒童書籍推薦區</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">這裡一樣會不定時推薦兒童書籍給大家看</SPAN></DIV></BODY></HTML></div>
+htmlText_FE634639_E6B6_707D_41DC_A8A7310CBD1D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>地球儀</B></SPAN></DIV></BODY></HTML></div>
+htmlText_C8A5BA22_EEBE_700C_41E8_9C5E62FB300C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>外文書庫</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">這裡有收藏許多外文書籍</SPAN></DIV></BODY></HTML></div>
+htmlText_C77967AD_E391_F014_41D6_F35FD9BC178F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>外文書庫</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">這裡有收藏許多外文書籍</SPAN></DIV></BODY></HTML></div>
+htmlText_CBB5A538_EE92_707C_41E1_D04C839D506A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>多媒體討論室</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">一個隔絕空間可以讓大家一起租借DVD在這裡觀看</SPAN></DIV></BODY></HTML></div>
+htmlText_C871BFF4_EE92_AFF4_41E8_A9433CFAEB94.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>密集書庫</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">裡面有校內外或國外的各種期刊，供大家查閱</SPAN></DIV></BODY></HTML></div>
+htmlText_FE67F32B_E692_701D_41CE_E2B76C8CC4A8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>小型演講區</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">圖書館會不定期舉辦小型演講活動在這裡</SPAN></DIV></BODY></HTML></div>
+htmlText_C848931D_EE96_F035_41D6_61A80D2D5FEF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>座位區</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">相對於三四樓視個人自習區</SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">這裡提供1-2人較為舒適的自習或是休息區</SPAN></DIV></BODY></HTML></div>
+htmlText_FE243681_E696_700D_41EC_042B08AA3F1D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>教授升等評鑑</B></SPAN></DIV></BODY></HTML></div>
+htmlText_F8971137_E6F2_9075_41A5_A9B25FE14485.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>書本消毒器</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">如果對衛生有疑慮，讀者可以將書放進去消毒</SPAN></DIV></BODY></HTML></div>
+htmlText_C9518773_EE92_900C_4183_1DFCD3A71768.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>服務台</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>主要處理多媒體視聽室的相關問題</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV></BODY></HTML></div>
+htmlText_C8AA4809_EE91_B01C_419F_985A8EB54D0C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>服務台</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">有關借書還書討論室借用或有圖書館相關問題都可以在這邊做詢問</SPAN></DIV></BODY></HTML></div>
+htmlText_F82B84ED_E38E_7015_41EB_45442FA66C6F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>自動借書機</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">如果遇到服務台沒人時，你可以在這裡自動借書</SPAN></DIV></BODY></HTML></div>
+htmlText_FEFD33D6_E692_7034_41CE_9BDF2BFEECB9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>自動繳費機</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">有關影印費繳費，借還書預期罰款都在這邊做辦理</SPAN></DIV></BODY></HTML></div>
+htmlText_FA3BC647_E376_B01F_41E5_4045940A9BCC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>自習區</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">常會有許多同學會在課與課間或期中期末來這裡讀書休息</SPAN></DIV></BODY></HTML></div>
+htmlText_FA522E5E_E392_9034_41D6_27767F394C34.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>自習區</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">有很多同學會在課與課間或期中期末在這裡休息或讀書</SPAN></DIV></BODY></HTML></div>
+htmlText_CB2CE1D1_ED76_900C_41DF_5FD13F64BDD0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>臺灣日日新報區</B></SPAN></DIV></BODY></HTML></div>
+htmlText_CB8C7A6B_ED73_F01C_41DF_618A44E46314.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>階梯演講區<BR/></B>圖書館會在這舉辦許多演講活動在這</SPAN></DIV></BODY></HTML></div>
+htmlText_FE7668A7_E692_F015_41C1_59F263D1BA9B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>雜誌區</B></SPAN></DIV></BODY></HTML></div>
+htmlText_FEC2EA2D_E6B2_B015_41E2_46AEAA8501C4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>雜誌區</B></SPAN></DIV></BODY></HTML></div>
+htmlText_FEBCA5F8_E692_F3FB_41CC_611BA2093F08.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>雜誌區</B></SPAN></DIV></BODY></HTML></div>
+htmlText_CB3BA41B_EE93_903D_41EC_8F364A013C58.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>電影觀賞區</B></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">可以租借DVD在這邊與朋友們一起欣賞</SPAN></DIV></BODY></HTML></div>
+htmlText_F3DE6766_E292_9014_418E_883352AA830B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體 Light';"><B>圖書館影印機</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體 Light';">1.悠遊卡影印(黑白2塊)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體 Light';">2.影印卡(黑白1塊)</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_C3B44253_D282_E7E8_41E8_C64F18A8D64F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';"><B>24小時的還書箱<BR/></B></SPAN><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';">如果遇到圖書館沒開可以將書投入歸還</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_C0C4F948_D40D_A0BB_41C0_B0EE1B0BFB3B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';"><B>每週書籍推薦</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';">圖書館會根據主題推薦不同的書籍給大家，當沒想法時就可以來翻翻看，或許你就會找到自己的寶藏囉</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_F75DC512_E2B7_B00F_418F_3F2791DACC4D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';"><B>討論室</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';">同學可以在圖書館網站上預約</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';">請注意討論室最低預約人數為三人</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_FA6BA64B_E3B2_901C_41B8_2C83F1CD4DC0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';"><B>還書車<BR/></B></SPAN><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';">請將看完的書放在此處，會由專門的圖書委員將書帶回原本的家</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:16px;font-family:'微軟正黑體';">請切記不要將書擅自放在非此書的家</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_C5A8C992_D407_E3AF_41B7_B7417E589A8D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'微軟正黑體';"><B>檢測圖書館的環境的檢測器</B></SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Multiline Text
+HTMLText_D3C57FAB_F334_35A8_41CA_6790D93DC9EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:37px;"><B>圖書館測驗:{{quiz.global.score.total}}</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
